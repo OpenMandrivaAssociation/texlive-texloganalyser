@@ -1,4 +1,4 @@
-# revision 19888
+# revision 26313
 # category Package
 # catalog-ctan /support/texloganalyser
 # catalog-date 2010-07-22 14:36:43 +0200
@@ -6,7 +6,7 @@
 # catalog-version 0.7
 Name:		texlive-texloganalyser
 Version:	0.7
-Release:	2
+Release:	3
 Summary:	Analyse TeX logs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/texloganalyser
