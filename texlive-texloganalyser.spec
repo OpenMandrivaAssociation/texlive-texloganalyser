@@ -50,3 +50,20 @@ pushd %{buildroot}%{_bindir}
 popd
 mkdir -p %{buildroot}%{_datadir}
 cp -fpar texmf-dist %{buildroot}%{_datadir}
+
+
+%changelog
+* Wed Aug 08 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.7-3
++ Revision: 812911
+- Update to latest release.
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.7-2
++ Revision: 756740
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.7-1
++ Revision: 719705
+- texlive-texloganalyser
+- texlive-texloganalyser
+- texlive-texloganalyser
+
