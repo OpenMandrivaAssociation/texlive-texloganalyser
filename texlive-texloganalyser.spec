@@ -6,7 +6,7 @@
 # catalog-version 0.7
 Name:		texlive-texloganalyser
 Version:	0.7
-Release:	6
+Release:	7
 Summary:	Analyse TeX logs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/texloganalyser
