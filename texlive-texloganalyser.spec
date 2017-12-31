@@ -5,8 +5,8 @@
 # catalog-license other-free
 # catalog-version 0.7
 Name:		texlive-texloganalyser
-Version:	0.7
-Release:	11
+Version:	0.9
+Release:	1
 Summary:	Analyse TeX logs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/texloganalyser
