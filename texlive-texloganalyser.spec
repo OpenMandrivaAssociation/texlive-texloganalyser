@@ -1,6 +1,6 @@
 Name:		texlive-texloganalyser
 Version:	54526
-Release:	1
+Release:	2
 Summary:	Analyse TeX logs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/texloganalyser
