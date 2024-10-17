@@ -3,7 +3,7 @@ Version:	54526
 Release:	2
 Summary:	Analyse TeX logs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/support/texloganalyser
+URL:		https://www.ctan.org/tex-archive/support/texloganalyser
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texloganalyser.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texloganalyser.doc.r%{version}.tar.xz
