@@ -1,5 +1,6 @@
 %global tl_name texloganalyser
 %global tl_revision 54526
+%global tl_bin_links texloganalyser:%{_texmfdistdir}/scripts/texloganalyser/texloganalyser
 
 Name:		texlive-%{tl_name}
 Epoch:		1
@@ -15,6 +16,8 @@ BuildArch:	noarch
 BuildSystem:	texlive
 Requires:	texlive(texloganalyser.bin)
 Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}.bin) = %{tl_revision}
+Provides:	texlive-%{tl_name}.bin = %{EVRD}
 
 %description
 This perl script allows the user to extract (and display) elements of
